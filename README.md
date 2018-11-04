@@ -1,7 +1,7 @@
 ## About
 
 FullStackGameFramwork2017 NEnt by Eran Ravid . 26.6.2017.
-This is a fullstack Node.js app using lots of technologies such as npm, ES6 and HTML5. 
+This is a Node.js app using stack of technologies such as npm, ES6 and HTML5. 
 
 This app was tested on: 
 	chrome, firefox, edge - on windows
