@@ -1,6 +1,6 @@
 ## About
 
-Code_assignment_Framework by Eran Ravid for NetEnt. 26.6.2017.
+FullStackGameFramwork2017 NEnt by Eran Ravid . 26.6.2017.
 This is a fullstack Node.js app using lots of technologies such as npm, ES6 and HTML5. 
 
 This app was tested on: 
